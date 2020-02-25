@@ -1,5 +1,6 @@
 import java.io.File
 
+import com.altimetrik.gobike.utils.IngestionUtils
 import org.apache.commons.io.FileUtils
 import org.scalatest.{ BeforeAndAfterAll, DiagrammedAssertions, FlatSpec }
 
